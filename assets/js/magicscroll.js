@@ -1,0 +1,1 @@
+No Content: https://tourism.gov.pk/assets/js/magicscroll.js
